@@ -127,8 +127,6 @@ The interactive dashboard includes:
 
 # Map Visual showing: City-wise Spend & Transactions
 
-Dashboard:
-![image](https://github.com/user-attachments/assets/4ce65bbd-9b43-4e5a-8c1f-a36af69142f4)
 
 ❓ Key Business Questions Answered with SQL
 
