@@ -106,33 +106,26 @@ CREATE TABLE Spend (
 
 Right-click on each table in pgAdmin > Import/Export and load the CSV files.
 
+
 📊 Power BI Dashboard Features
 
 The interactive dashboard includes:
 
-KPI Cards for Total Spend, Transactions, Avg Credit Limit, and Avg Age.
+# KPI Cards for Total Spend, Transactions, Avg Credit Limit, and Avg Age.
 
-Bar Charts showing:
+# Bar Charts showing: Avg Spend by Product Type
 
-Avg Spend by Product Type
+# Transactions by Product Type
 
-Transactions by Product Type
+# Customers by City
 
-Customers by City
+# Pie Charts for: Job Segment-wise Spend
 
-Pie Charts for:
+# Card Type-wise Spend
 
-Job Segment-wise Spend
+# Line Chart for: Month-on-Month Transactions & Avg Spend
 
-Card Type-wise Spend
-
-Line Chart for:
-
-Month-on-Month Transactions & Avg Spend
-
-Map Visual showing:
-
-City-wise Spend & Transactions
+# Map Visual showing: City-wise Spend & Transactions
 
 Dashboard:
 ![image](https://github.com/user-attachments/assets/4ce65bbd-9b43-4e5a-8c1f-a36af69142f4)
